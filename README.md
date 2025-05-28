@@ -1,5 +1,8 @@
 # HR-Analytics-Dashboard-in-Excel
 
+![image](https://github.com/user-attachments/assets/6061fea8-996a-495e-8e0f-dcd15e9fecdc)
+
+
 ## Project Overview
 
 The **HR Analytics Dashboard** project presents a comprehensive analysis of human resources data to better understand employee dynamics and attrition within an organization. Utilizing advanced data analysis techniques in **Microsoft Excel**, the dashboard provides actionable insights to support data-driven HR strategies focused on improving employee satisfaction and retention.
